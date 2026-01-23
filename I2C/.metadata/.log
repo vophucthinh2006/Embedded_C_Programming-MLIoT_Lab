@@ -1,0 +1,21 @@
+!SESSION 2026-01-23 18:28:54.131 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\ML&IoT Lab\Bare_metal\I2C
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-01-23 18:29:02.312
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-01-23 18:29:02.315
+!MESSAGE Log4j2 initialized with config file D:\ML&IoT Lab\Bare_metal\I2C\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-01-23 18:29:05.979
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-01-23 18:31:48.360
+!MESSAGE Indexed 'I2C' (3 sources, 53 headers) in 10.9 sec: 1,954 declarations; 2,862 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-01-23 18:34:48.135
+!MESSAGE Indexed 'I2C' (12 sources, 64 headers) in 0.584 sec: 2,447 declarations; 4,960 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.027%)

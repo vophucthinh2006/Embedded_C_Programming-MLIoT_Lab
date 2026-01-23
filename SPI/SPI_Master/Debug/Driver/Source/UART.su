@@ -1,0 +1,6 @@
+D:/ML&IoT Lab/STM32/Driver/Source/UART.c:3:6:UART_Init	40	static
+D:/ML&IoT Lab/STM32/Driver/Source/UART.c:50:6:UART_Transmit_Char	24	static
+D:/ML&IoT Lab/STM32/Driver/Source/UART.c:78:6:UART_Transmit_String	16	static
+D:/ML&IoT Lab/STM32/Driver/Source/UART.c:88:9:UART_Recieve	24	static
+D:/ML&IoT Lab/STM32/Driver/Source/UART.c:113:6:UART1_IRQHandler	4	static
+D:/ML&IoT Lab/STM32/Driver/Source/UART.c:117:6:value_to_str	40	static

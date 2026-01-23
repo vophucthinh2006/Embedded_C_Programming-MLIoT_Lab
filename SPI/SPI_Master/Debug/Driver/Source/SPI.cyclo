@@ -1,0 +1,6 @@
+D:/ML&IoT Lab/STM32/Driver/Source/SPI.c:3:6:SPI_Init_Master	3
+D:/ML&IoT Lab/STM32/Driver/Source/SPI.c:42:6:SPI_Init_Slave1	3
+D:/ML&IoT Lab/STM32/Driver/Source/SPI.c:78:6:SPI_Transmit_SS1	6
+D:/ML&IoT Lab/STM32/Driver/Source/SPI.c:118:6:SPI_SS1_Transmit	6
+D:/ML&IoT Lab/STM32/Driver/Source/SPI.c:154:10:SPI_Receive_SS1	6
+D:/ML&IoT Lab/STM32/Driver/Source/SPI.c:194:10:SPI_SS1_Receive	5

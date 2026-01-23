@@ -1,0 +1,8 @@
+"./Driver/Source/ADC.o"
+"./Driver/Source/GPIO.o"
+"./Driver/Source/RCC.o"
+"./Driver/Source/UART.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c8tx.o"

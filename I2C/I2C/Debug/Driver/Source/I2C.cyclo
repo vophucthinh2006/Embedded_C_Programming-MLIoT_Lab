@@ -1,0 +1,11 @@
+D:/ML&IoT Lab/STM32/Driver/Source/I2C.c:3:6:I2C_Init	5
+D:/ML&IoT Lab/STM32/Driver/Source/I2C.c:66:6:I2C_Start	5
+D:/ML&IoT Lab/STM32/Driver/Source/I2C.c:93:6:I2C_Stop	3
+D:/ML&IoT Lab/STM32/Driver/Source/I2C.c:110:6:I2C_Transmit_Address	4
+D:/ML&IoT Lab/STM32/Driver/Source/I2C.c:138:6:I2C_Master_Transmit_Data	5
+D:/ML&IoT Lab/STM32/Driver/Source/I2C.c:161:6:I2C_Slave_Transmit_Data	7
+D:/ML&IoT Lab/STM32/Driver/Source/I2C.c:190:9:I2C_Master_Receive_Continue	4
+D:/ML&IoT Lab/STM32/Driver/Source/I2C.c:218:9:I2C_Master_Receive_Stop	5
+D:/ML&IoT Lab/STM32/Driver/Source/I2C.c:256:10:I2C_Master_Receive_Data	2
+D:/ML&IoT Lab/STM32/Driver/Source/I2C.c:268:10:I2C_Slave_Receive_Data	4
+D:/ML&IoT Lab/STM32/Driver/Source/I2C.c:291:6:I2C_Slave_Stop_Detection	3

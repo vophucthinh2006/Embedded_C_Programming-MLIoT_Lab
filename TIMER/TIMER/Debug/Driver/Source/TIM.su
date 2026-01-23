@@ -1,0 +1,4 @@
+D:/ML&IoT Lab/STM32/Driver/Source/TIM.c:46:6:TIM1_IRQHandler	4	static
+D:/ML&IoT Lab/STM32/Driver/Source/TIM.c:50:6:TIM_Delay_ms	40	static
+D:/ML&IoT Lab/STM32/Driver/Source/TIM.c:103:6:TIM_PWM	48	static
+D:/ML&IoT Lab/STM32/Driver/Source/TIM.c:233:6:TIM_PWM_Bright_Percent	24	static

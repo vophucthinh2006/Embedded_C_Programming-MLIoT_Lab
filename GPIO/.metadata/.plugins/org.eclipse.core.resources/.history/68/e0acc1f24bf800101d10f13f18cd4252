@@ -1,0 +1,18 @@
+#include "RCC.h"
+#include "GPIO.h"
+
+int main(void){
+	RCC_Enable(RCC_PORTA);
+	GPIO_Config(GPIO_PORTA, 0, GPIO_CNF_OUT_PP, GPIO_MODE_OUT_50M);
+	GPIO_Config(GPIO_PORTA, 1, GPIO_CNF_IN_PU_PD, GPIO_MODE_IN);
+	GPIO_In_Pull(GPIO_PORTA, 1, GPIO_CNF_IN_PD);
+
+	while(1){
+		if (GPIO_Read_Pin(GPIO_PORTA, 1) == 1){
+			GPIO_Write_Pin(GPIO_PORTA, 0, GPIO_PIN_SET);
+		}
+		else {
+			GPIO_Write_Pin(GPIO_PORTA, 0, GPIO_PIN_RESET);
+		}
+	}
+}

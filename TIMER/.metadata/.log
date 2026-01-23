@@ -1,0 +1,21 @@
+!SESSION 2026-01-23 18:42:24.369 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\ML&IoT Lab\Bare_metal\TIMER
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-01-23 18:42:54.009
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-01-23 18:42:54.013
+!MESSAGE Log4j2 initialized with config file D:\ML&IoT Lab\Bare_metal\TIMER\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-01-23 18:43:06.272
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-01-23 18:43:51.441
+!MESSAGE Indexed 'TIMER' (3 sources, 53 headers) in 1.46 sec: 1,954 declarations; 2,862 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-01-23 18:44:34.487
+!MESSAGE Indexed 'TIMER' (11 sources, 63 headers) in 0.591 sec: 2,400 declarations; 4,812 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.028%)
