@@ -110,11 +110,11 @@ Two microcontrollers communicate using the SPI protocol. MCU1 transmits characte
 
 Concepts demonstrated:
 
-Master-Slave communication.
+- Master-Slave communication.
 
-Full-duplex synchronous communication.
+- Full-duplex synchronous communication.
 
-Multi-device interfacing.
+- Multi-device interfacing.
 
 Video:
 
