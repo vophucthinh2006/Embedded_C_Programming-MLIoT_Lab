@@ -92,17 +92,19 @@ void I2C_Stop(
 void I2C_Transmit_Address(
 		I2C_t I2C_,
 		uint8_t address,
+		uint8_t data_address,
 		I2C_LSB_t write_read
 		);
 
 void I2C_Master_Transmit_Data(
 		I2C_t I2C_,
-		uint8_t data
+		uint8_t *data,
+		uint8_t data_length
 		);
 
 void I2C_Slave_Transmit_Data(
 		I2C_t I2C_,
-		uint8_t data
+		uint8_t *data
 		);
 
 uint8_t I2C_Master_Receive_Continue(
@@ -111,11 +113,6 @@ uint8_t I2C_Master_Receive_Continue(
 
 uint8_t I2C_Master_Receive_Stop(
 		I2C_t I2C_
-		);
-
-uint16_t I2C_Master_Receive_Data(
-		I2C_t I2C_,
-		I2C_ACK_t ack
 		);
 
 uint16_t I2C_Slave_Receive_Data(
