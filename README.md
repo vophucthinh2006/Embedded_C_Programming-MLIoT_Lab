@@ -64,7 +64,7 @@ Development style: Bare metal (direct register access).
 
 The following demonstrations validate the functionality of each implemented peripheral driver.
 
-### **GPIO:**
+### **HW01 - GPIO**
 
 Description:
 
@@ -82,7 +82,7 @@ Video:
 
   [GPIO_Demo_Video](https://youtube.com/shorts/TdySQsNt4y0?feature=share)
 
-### **UART:**
+### **HW02 - UART**
 
 Description:
 
@@ -102,7 +102,7 @@ Video:
 
   [UART_Demo_Video](https://youtube.com/shorts/IpbeLPs09uc?feature=share)
 
-### **SPI:**
+### **HW03 - SPI**
 
 Description:
 
@@ -120,7 +120,7 @@ Video:
 
   [SPI_Demo_Video](https://youtube.com/shorts/svTzy_lLtls?feature=share)
 
-### **I2C:**
+### **HW04 - I2C**
 
 Description:
 
@@ -138,7 +138,7 @@ Video:
 
   [I2C_Demo_Video](https://youtube.com/shorts/wqdRMsodFWk?feature=share)
 
-### **TIMER:**
+### **HW05 - TIMER**
 
 Description:
 
@@ -156,7 +156,7 @@ Video:
 
   [TIMER_Demo_Video](https://youtube.com/shorts/yp1pG0UOCjQ?feature=share)
 
-### **ADC:**
+### **HW06 - ADC**
 
 Description:
 
